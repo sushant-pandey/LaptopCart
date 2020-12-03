@@ -1,0 +1,10 @@
+/target
+.classpath
+.project
+.settings
+/velocity.log
+/smr-fitnesse.log
+/bin/
+*.iml
+test-output/
+*.idea/*
